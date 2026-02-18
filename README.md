@@ -30,6 +30,7 @@ This project demonstrates real-time object detection using a pretrained YOLO mod
 
 ## 📂 Project Structure
 Object-Detection-YOLO/
+
 │
 ├── app.py # Streamlit frontend
 ├── object_detect.py # YOLO detection logic
